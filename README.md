@@ -1,0 +1,2 @@
+其中ClientUpdateModule和VersionManager是主程序升级的模块的全部内容
+这里面的MainWindow是升级程序的全部内容
